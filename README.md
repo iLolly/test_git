@@ -1,4 +1,3 @@
 test_git
 ========
-
-test
+> git 的使用练习

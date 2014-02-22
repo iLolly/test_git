@@ -2,4 +2,5 @@ test_git
 ========
 > test  
 > add line@20140222233015  
-> branch: develop
+> branch: develop  
+> branch: feature

@@ -1,4 +1,3 @@
-
 class Demo
 
   def initialize(string = 'hello')
